@@ -5,7 +5,7 @@ import header from '../../images/nature.jpg';
 
 const Header = () => {
     return (
-        <div  style={{ backgroundImage:`url(${header})` }}  className="header">
+        <div  style={{ backgroundImage:`url(${header})`}}  className="header">
         <h1 className="logo mt-5 fixed-top">Green Nature</h1>
         <nav className="nav fixed-top">
           <ul  className="mt-3">
