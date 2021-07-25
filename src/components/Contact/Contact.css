@@ -22,7 +22,7 @@ body {
 }
 .form {
   width: 700px;
-  margin-left: 560px;
+  margin-left: 480px;
   display: flex;
   flex-wrap: wrap;
 }

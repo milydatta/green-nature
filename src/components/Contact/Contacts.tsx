@@ -31,8 +31,8 @@ const Contacts = () => {
     return (
         <div>
            {/* <h1>USER:{loggedInUser.name}</h1> */}
-            <h1>Contact List</h1>
-            <div className="form">
+            <h1 className="text-center mt-5">Contact List</h1>
+            <div className="form mt-5">
                 <input
                 value = {contact.name}
                 onChange={onChange}
