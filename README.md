@@ -2,4 +2,4 @@
 
 It's a project of Redux & Typescript. <br/>
 
-live link:
+live link: https://green-nature-c7890.web.app/
